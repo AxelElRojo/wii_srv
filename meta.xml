@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>Wii Server</name>
+	<version>0.1.0</version>
+	<coder>AxelElRojo</coder>
+	<short_description>HTTP Server</short_description>
+	<long_description>
+		Simple HTTP Server for Wii. It only supports GET and HEAD.
+	</long_description>
+</app>
